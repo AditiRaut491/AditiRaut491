@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Aditi 👋<br><br>🎓 B.E. Information Technology Student<br>💻 Passionate about Data Science, AI/ML<br>📊 Exploring Machine Learning, Python, and Data Analytics<br>🚀 Always learning and building real-world projects<br>🌱 Currently improving my DSA
 
 
